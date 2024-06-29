@@ -1,4 +1,4 @@
-pyrofork
+pyrotgfork
 tgcrypto
 asyncio
 pymongo[srv]==3.12.3
